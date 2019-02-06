@@ -1,0 +1,24 @@
+#head {
+  background-color: #294050;
+  height:200px;
+  width:100%;
+}
+#head >  h3 {
+  top: 30px;
+}
+#head > p {
+  text-align: center;
+}
+.order {
+  border-radius: 30px;
+  background-color: #717178;
+}
+#meals {
+  background-image: url(https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto,w_600,h_750,c_fit,fl_strip_profile/https://s3.amazonaws.com/pixtruder/original_images/9455406343ff85fdef5630e19932bd3d980b848d);
+  background-size: cover;
+  height:900px;
+  width:100%;
+}
+img {
+  border-radius: 40px;
+}
